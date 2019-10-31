@@ -104,3 +104,8 @@
 - [sentdex](https://github.com/Sentdex)
 - [Ashish Tendulkar](https://www.youtube.com/watch?v=F_uuqfgdZZw&list=PLlyCyjh2pUe9KzdyNOlmaJqeeI4YHOT-t)
 - [Andrew Yan-Tak Ng](http://www.andrewng.org/)
+
+## **LEARN**
+@https://www.tutorialspoint.com/machine_learning_with_python/index.htm  (with Phython)
+
+
