@@ -99,4 +99,5 @@
 + <a href = "https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_">Flask from scratch in Python</a>
 + <a href = "https://www.youtube.com/watch?v=j5wysXqaIV8">CS50 Flask</a>
 
-
+## **LEARN**
+@https://www.w3schools.com/python/
